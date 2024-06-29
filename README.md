@@ -11,5 +11,4 @@
 
 ## Laporan Analisa Kebutuhan Sistem
 ## Analisa kebutuhan sistem Pemesanan Barang Berbasis Online
-#### klik : [UTS-M.Abdul Anas (312210269) Analisis.pdf](https://github.com/muhamadabdulanas/UTS-Analisa-Kebutuhan-Sistem/files/15333201/UTS-M.Abdul.Anas.312210269.Analisis.pdf)
-
+#### klik : [uts .pdf](https://github.com/user-attachments/files/16039946/uts.pdf)
